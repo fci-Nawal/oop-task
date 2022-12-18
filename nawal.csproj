@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.Net.Sdk">
+<ProjectGroup>
+<TargetFramework>net7.0</TargetFramework>
+<OutputType>Exe</OutputType>
+<LangVersion>latest</LangVersion>
+</ProjectGroup>
+</Project>
